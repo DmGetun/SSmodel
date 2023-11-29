@@ -4,3 +4,7 @@ node2vec
 matplotlib
 scikit-learn
 numpy
+gensim
+nltk
+pymorphy2
+torch
